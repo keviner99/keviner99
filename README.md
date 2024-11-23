@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in programming languages, web development, SQL. Welcome to my GitHub profile!
 
 ## About Me
 
