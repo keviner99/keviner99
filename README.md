@@ -20,6 +20,6 @@ I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in 
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/kevin-espinoza-r/?locale=en_US) profile
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-- Here is my [Twitter](Your Twitter Profile Link) profile
+
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
