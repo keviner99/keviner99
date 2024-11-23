@@ -32,7 +32,10 @@ I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-espinoza-r/?locale=en_US) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/kevin-espinoza-r/?locale=en_US) profile
+
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-espinoza-r/?locale=en_US)
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
