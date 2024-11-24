@@ -33,6 +33,7 @@ I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
 </div>
+
 - Skills: <Any Other Skills or Tools You Want to Highlight>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" **alt="VSCODE" width="40" height="40"/>
