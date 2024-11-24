@@ -12,6 +12,11 @@ I'm <Kevin Espinoza>, a student at Brigham Young University-Idaho interested in 
 - My specialties include learning programming languages and working effectively in teams. So far, I have Python, HTML, CSS, JavaScript, and Git/Github under my belt. I have started learning PHP, SQL, and introduction to Databases in Back-end Development.
 - Ask me about my projects.
 
+## Projects 
+
+- Review this repository https://github.com/keviner99/phpmotors where I created a dynamic website using PHP and SQL.
+- Review this repository https://github.com/keviner99/recipe_app where my group and I build a recipe app using JS and JSON.
+
 ## Technologies and Tools
 
 - Proficient in:
